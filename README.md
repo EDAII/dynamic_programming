@@ -7,9 +7,9 @@ Cleber José de Castro Júnior | 16/0025834
 # Knapsack
 __________
 
-![image1](/images/imagem1.png)
-![image2](/images/imagem2.png)
-![image3](/images/imagem3.png)
+![image1](/images/image1.png)
+![image2](/images/image2.png)
+![image3](/images/image3.png)
 
 # Executando o código
 
